@@ -18,3 +18,11 @@ var animal = {
     predators: ['humans', 'lions', 'hyenas', 'crocodiles']
 };
 
+var customer = {
+    name: 'Arnold Darkshner',
+    occupation: 'Green Team',
+    isRight: true,
+    usingCreditCard: false,
+    itemsBought: ['candy', 'ice cream', 'pizza', 'wine'],
+    fakeIdsUsed: ['Robert Wellington', 'William Charles Schnider', 'McLovin']
+};
