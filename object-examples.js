@@ -9,3 +9,12 @@ var car = {
     placesDriven: ['Dallas', 'Austin', 'Rockwall', 'Heath', 'Rowlett']
 };
 
+var animal = {
+    type: 'Elephant',
+    breed: 'African Savanna',
+    weightInPounds: 13000,
+    numberInFamily: 10,
+    diet: ['roots', 'grasses', 'fruit', 'bark'],
+    predators: ['humans', 'lions', 'hyenas', 'crocodiles']
+};
+
